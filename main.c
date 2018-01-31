@@ -66,7 +66,7 @@ void setClock();
 
 void main()
 {
-    //GND novy komit
+    //GND novy komit 2
     //+
     //CLK       17, RP12
     //DATA      18, RP13
