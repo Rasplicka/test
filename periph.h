@@ -1,0 +1,3 @@
+void initPort();
+void initInterrupt();
+
